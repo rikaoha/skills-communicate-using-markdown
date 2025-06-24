@@ -12,3 +12,6 @@ var myVar = "Hello, world!";
 
 var myVar = "Hello, world!";
 
+- [ ] GitHub Pages を有効にする
+- [ ] ポートフォリオの概要を作成する
+- [ ] 自己紹介をする
